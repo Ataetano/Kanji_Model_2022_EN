@@ -44,6 +44,14 @@ $$L_6(t) = \min(J_6 + K_6, \left\lfloor (1 - \beta)(K_{0,6} + \alpha{(t - 600)})
 
 ## Project Advisor
 I am grateful for the support of Dr.rer.nat Ratthaprom Promkam, who has made our project go this far. You can access his GitHub contributions [HERE](https://github.com/epsilonxe).
+
 ## References
-bibliography:
-  - my_references.bib
+
+### Reports
+- คณะศิลปศาสตร์ ภาควิชาภาษาไทยและภาษาวัฒนธรรมตะวันออกสาขาวิชาภาษาญี่ปุ่น. "รายละเอียดของหลักสูตร หลักสูตรศิลปศาสตร์บันฑิต สาขาวิชาภาษาญี่ปุ่น (หลักสูตรปรับปรุง พ.ศ.2561)". มหาวิทยาลัยธรรมศาสตร์, 2561.
+
+### Books
+- Ebbinghaus, Hermann. "Memory: A Contribution to Experimental Psychology". Translated by Henry A. Ruger and Clara E. Bussenius. Teachers College Press, 1913. DOI: [10.1037/10011-000](https://doi.org/10.1037/10011-000)
+
+### Online Resources
+- Ratthaprom Promkam. "Introduction to Mathematical Modeling". [Online]. Available: [https://epsilonxe.github.io/RMUTT_09114223/](https://epsilonxe.github.io/RMUTT_09114223/)
