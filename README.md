@@ -1,0 +1,2 @@
+## Kanji Learning Model
+This mathematical model is designed to analyze the results of kanji learning, the time it takes to learn kanji characters, and to answer the question within the educational curriculum of how many kanji characters need to be learned per day in order to learn all kanji characters. The goal is to create a more effective kanji learning curriculum.
