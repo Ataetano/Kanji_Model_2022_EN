@@ -37,8 +37,8 @@ $$L(t) = L_1(t) + L_2(t) + L_3(t) + L_4(t) + L_5(t) + L_6(t)$$
 Where
 $$
 \begin{align}
-L_1(t) & = \min \{J_1 + K_1, \left\lfloor (1 - \beta)(K_{0,1} + \alpha{t}) \right\rfloor\} \; ; t \in (0,120] \\
-L_2(t) & = \min \{J_2 + K_2, \left\lfloor (1 - \beta)(K_{0,2} + \alpha{(t - 120)}) \right\rfloor\} \; ; t \in (120,240] \\
+L_1(t) & = \min J_1 + K_1, \left\lfloor (1 - \beta)(K_{0,1} + \alpha{t}) \right\rfloor \; ; t \in (0,120] \\
+L_2(t) & = \min J_2 + K_2, \left\lfloor (1 - \beta)(K_{0,2} + \alpha{(t - 120)}) \right\rfloor \; ; t \in (120,240] 
 \end{align}
 $$
 
