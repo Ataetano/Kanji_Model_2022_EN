@@ -15,3 +15,16 @@ To create a mathematical model for learning kanji characters, it is necessary to
 * Japanese 6: Students will learn a total of 350 kanji characters. Prerequisite: Japanese 5.
 
 * Additional Kanji: Students are required to learn an additional 786 kanji characters that are not included in Japanese 1 to Japanese 6. These characters can be studied independently.
+
+## Defination
+Symbol | Type | Variable | Unit
+| :---: | :---: | :--- | :---:
+$L(t)$  | Output variable | Number of kanji characters the learner knows at time t | Characters
+$L_i(t)$  | Parameter | Number of kanji characters the learner knows during the learning period of Japanese i at time t | Characters
+$K_i(t)$  | Parameter | Number of kanji characters the learner knows during the learning period of Japanese i at time t | Characters
+$t(t)$  | Input variable | Time spent learning kanji characters | Days
+$J_i$  | Parameter | Total number of kanji characters that can be learned during the learning period of Japanese i | Characters
+$K_{0,i}$  | Parameter | Number of kanji characters that the learner already knows and remembers in Japanese i | Characters
+$β$  | Parameter | Kanji character loss rate | Unitless
+
+Where $L_i, K_i, J_i, K_{0,i}$ denoted by $i = 1,2,3,4,5,6$
