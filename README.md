@@ -44,3 +44,6 @@ $$L_6(t) = \min(J_6 + K_6, \left\lfloor (1 - \beta)(K_{0,6} + \alpha{(t - 600)})
 
 ## Project Advisor
 I am grateful for the support of Dr.rer.nat Ratthaprom Promkam, who has made our project go this far. You can access his GitHub contributions [HERE](https://github.com/epsilonxe).
+## References
+bibliography:
+  - my_references.bib
