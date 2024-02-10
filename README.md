@@ -37,12 +37,12 @@ $$L(t) = L_1(t) + L_2(t) + L_3(t) + L_4(t) + L_5(t) + L_6(t)$$
 Where
 
 $$
-L_1(t) &= \min(J_1 + K_1, \left\lfloor (1 - \beta)(K_{0,1} + \alpha{t}) \right\rfloor), \; ; t \in (0,120] \\
-L_2(t) &= \min(J_2 + K_2, \left\lfloor (1 - \beta)(K_{0,2} + \alpha{(t - 120)}) \right\rfloor), \; ; t \in (120,240] \\
-L_3(t) &= \min(J_3 + K_3, \left\lfloor (1 - \beta)(K_{0,3} + \alpha{(t - 240)}) \right\rfloor), \; ; t \in (240,360] \\
-L_4(t) &= \min(J_4 + K_4, \left\lfloor (1 - \beta)(K_{0,4} + \alpha{(t - 360)}) \right\rfloor), \; ; t \in (360,480] \\
-L_5(t) &= \min(J_5 + K_5, \left\lfloor (1 - \beta)(K_{0,5} + \alpha{(t - 480)}) \right\rfloor), \; ; t \in (480,600] \\
-L_6(t) &= \min(J_6 + K_6, \left\lfloor (1 - \beta)(K_{0,6} + \alpha{(t - 600)}) \right\rfloor), \; ; t \in (600,720]
+L_1(t) = \min(J_1 + K_1, \left\lfloor (1 - \beta)(K_{0,1} + \alpha{t}) \right\rfloor), \; ; t \in (0,120] \\
+L_2(t) = \min(J_2 + K_2, \left\lfloor (1 - \beta)(K_{0,2} + \alpha{(t - 120)}) \right\rfloor), \; ; t \in (120,240] \\
+L_3(t) = \min(J_3 + K_3, \left\lfloor (1 - \beta)(K_{0,3} + \alpha{(t - 240)}) \right\rfloor), \; ; t \in (240,360] \\
+L_4(t) = \min(J_4 + K_4, \left\lfloor (1 - \beta)(K_{0,4} + \alpha{(t - 360)}) \right\rfloor), \; ; t \in (360,480] \\
+L_5(t) = \min(J_5 + K_5, \left\lfloor (1 - \beta)(K_{0,5} + \alpha{(t - 480)}) \right\rfloor), \; ; t \in (480,600] \\
+L_6(t) = \min(J_6 + K_6, \left\lfloor (1 - \beta)(K_{0,6} + \alpha{(t - 600)}) \right\rfloor), \; ; t \in (600,720]
 $$
 ## Project Advisor
 I am grateful for the support of Dr.rer.nat Ratthaprom Promkam, who has made our project go this far. You can access his GitHub contributions [HERE](https://github.com/epsilonxe).
